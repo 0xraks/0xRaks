@@ -9,12 +9,6 @@ I make youtube videos, sometimes.  [Check it out!](https://www.youtube.com/raksh
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
-
-<br />
-<br />
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0xRaks&show_icons=true&hide_border=true" />
 
 [website]: https://rakshithprakash.me
