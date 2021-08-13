@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-// I make youtube videos, sometimes.  [Check it out!](https://www.youtube.com/rakshithprakash)
 
 
 ### Connect with me:
